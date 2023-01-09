@@ -1,0 +1,26 @@
+.wrapper{
+ 
+    background-color: #f9f9f9;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.table{
+    margin: 0 auto;
+
+        background-color: white;
+        min-width: 1000px;
+        th{
+                    background-color: #007BFF;        
+                height: 60px;
+                color: azure;
+             padding: 20px 30px;
+        }
+        td{
+            padding-left: 10px;
+            border-bottom: 2px solid  #f9f9f9;
+            padding: 20px 30px;
+                cursor: pointer;
+            height: 60px;
+        
+        }
+}
